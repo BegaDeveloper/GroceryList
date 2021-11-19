@@ -1,3 +1,11 @@
+# Starting the app
+
+1. Download zip file and run npm install
+2. npm install -g json-server
+3. ng serve
+4. json-server --watch db.json
+5. Open localhost:4200 for project, and localhost:3000 for json-server
+
 # GroceryApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
