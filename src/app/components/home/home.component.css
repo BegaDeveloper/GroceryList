@@ -1,0 +1,14 @@
+#list {
+  margin: 0 100px 0 auto;
+}
+
+.fa-seedling {
+  color: #47d147;
+}
+
+#cols {
+  padding: 10px;
+  -moz-box-shadow: 0 0 4px #ccc;
+  -webkit-box-shadow: 0 0 4px #ccc;
+  box-shadow: 0 0 4px #ccc;
+}
